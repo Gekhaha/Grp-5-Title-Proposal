@@ -1,0 +1,16 @@
+3. "Flowchart Match: Simple Logic Puzzles"
+
+
+Objective: To solve logic puzzles by matching flowchart symbols in the correct order to form a logical
+           sequence that completes a given task or solves a problem.
+
+Concept: Players solve logic puzzles by matching flowchart symbols to create correct logic sequences.
+
+Gameplay: Each level presents a set of flowchart symbols and a goal. Players drag and drop the symbols
+          to create a sequence that achieves the goal.
+
+Example: A level might require players to create a flowchart that guides a character to a specific
+         location by matching symbols that represent actions like "move forward," "turn left," and "turn right."
+
+Ease of Development: This game involves simple logic and UI elements for matching symbols.
+                      It focuses on visual logic puzzles rather than complex game mechanics.

@@ -1,0 +1,16 @@
+2. "Flowchart Fun: Simple Logic Puzzles"
+
+Objective: To solve logic puzzles by creating a flowchart that represents a series
+           of actions or decisions, ultimately achieving the goal outlined in each level.
+
+Concept: Players solve simple logic puzzles by creating flowcharts that
+         determine the correct sequence of actions.
+
+Gameplay: Each level presents a scenario with a goal. Players use flowchart symbols
+          to create a logic sequence that achieves the goal.
+
+Example: A level might require players to create a flowchart that guides a character
+         to collect a specific item by following a set of instructions.
+
+Ease of Development: This game involves basic logic and UI elements for flowchart creation.
+                     It focuses on simple logic puzzles rather than complex game mechanics.

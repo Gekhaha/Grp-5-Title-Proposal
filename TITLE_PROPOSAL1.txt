@@ -1,0 +1,21 @@
+1. "Flowchart Maze: Simple Logic Puzzles"
+
+Objective: To guide a character through a maze by creating a flowchart that dictates the correct path, 
+            using logic to navigate obstacles and reach the end goal.
+
+Concept: Players guide a character through a simple maze by creating flowcharts
+         that determine the correct path.
+
+Gameplay: Each level presents a small maze with a starting point and an end goal.
+          Players drag and drop basic flowchart symbols (start, end, decision, process)
+          to create a path for the character to follow. Decision symbols could represent 
+          choices like "turn left" or "turn right." Process symbols could represent actions
+          like "move forward."
+
+Example: A level could have a maze with three paths. Players might need to create
+         a flowchart that first checks if there's a wall to the right, then turns
+         left if there is, and moves forward otherwise.
+
+Ease of Development: This game involves very basic game logic: character movement
+                     and checking for walls. The UI would need simple elements for
+                     dragging and dropping flowchart symbols.
